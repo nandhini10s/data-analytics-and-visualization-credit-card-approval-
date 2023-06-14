@@ -17,7 +17,7 @@ DATA ANALYSIS WITH MYSQL
 13. Gender wise credit approval
 14. Number of customers who has prior default and are employed
 15. Average age of bank and non-bank customers
-16. 
+
 CREDIT CARD APPROVAL PREDICTION: DATA ANALYTICS FOR RISK ASSESSMENT AND DECISION-MAKING USING PYTHON
 
 LIBRARIES USED- Pandas, Statsmodels, Sklearn 
